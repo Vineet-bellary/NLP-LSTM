@@ -1,0 +1,20 @@
+2026-06-20 17:13:53,486 - train - INFO - Using device: cuda
+2026-06-20 17:13:53,568 - train - INFO - Starting training for 50 epochs...
+2026-06-20 17:14:19,235 - train - INFO - Model saved to D:\lstm\models\best_bilstm_attention_model.pth
+2026-06-20 17:14:19,235 - train - INFO - LR: 0.001000
+Epoch: 1/50, Train Loss: 0.3913,  Train Accuracy: 0.82, Val Loss: 0.2933, Val Accuracy: 0.87
+2026-06-20 17:14:46,795 - train - INFO - LR: 0.001000
+Epoch: 2/50, Train Loss: 0.2580,  Train Accuracy: 0.89, Val Loss: 0.3036, Val Accuracy: 0.88
+2026-06-20 17:15:14,261 - train - INFO - Model saved to D:\lstm\models\best_bilstm_attention_model.pth
+2026-06-20 17:15:14,262 - train - INFO - LR: 0.001000
+Epoch: 3/50, Train Loss: 0.2121,  Train Accuracy: 0.91, Val Loss: 0.2626, Val Accuracy: 0.90
+2026-06-20 17:15:42,442 - train - INFO - LR: 0.001000
+Epoch: 4/50, Train Loss: 0.1798,  Train Accuracy: 0.93, Val Loss: 0.2640, Val Accuracy: 0.90
+2026-06-20 17:16:11,683 - train - INFO - LR: 0.001000
+Epoch: 5/50, Train Loss: 0.1515,  Train Accuracy: 0.94, Val Loss: 0.2826, Val Accuracy: 0.90
+2026-06-20 17:16:48,756 - train - INFO - LR: 0.000500
+Epoch: 6/50, Train Loss: 0.1264,  Train Accuracy: 0.95, Val Loss: 0.2890, Val Accuracy: 0.90
+2026-06-20 17:17:19,304 - train - INFO - LR: 0.000500
+Epoch: 7/50, Train Loss: 0.0929,  Train Accuracy: 0.97, Val Loss: 0.3560, Val Accuracy: 0.90
+2026-06-20 17:17:46,323 - train - INFO - Early stopping triggered at epoch 8
+2026-06-20 17:17:46,352 - train - INFO - Model saved to D:\lstm\models\best_bilstm_attention_model.pth

@@ -1,0 +1,11 @@
+2026-06-20 14:07:05,645 - infer - INFO - Input Text: The cinematography was st...: positive
+2026-06-20 14:07:05,647 - infer - INFO - Input Text: Waste of time. The plot w...: negative
+2026-06-20 14:07:05,648 - infer - INFO - Input Text: It had some slow parts, b...: positive
+2026-06-20 14:07:05,650 - infer - INFO - Input Text: The beginning was interes...: negative
+2026-06-20 14:07:05,651 - infer - INFO - Input Text: Oh wow, a five-minute sce...: negative
+2026-06-20 14:07:05,653 - infer - INFO - Input Text: Not the best movie I've s...: positive
+2026-06-20 14:07:05,654 - infer - INFO - Input Text: It tries to be deep but e...: negative
+2026-06-20 14:07:05,656 - infer - INFO - Input Text: Perfect....: positive
+2026-06-20 14:07:05,657 - infer - INFO - Input Text: Terrible....: negative
+2026-06-20 14:07:05,659 - infer - INFO - Input Text: From the opening scene to...: positive
+2026-06-20 14:07:05,662 - infer - INFO - Input Text: I sat through this expect...: negative
